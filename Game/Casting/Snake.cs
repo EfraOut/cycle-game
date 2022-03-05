@@ -11,12 +11,13 @@ namespace Unit05.Game.Casting
     public class Snake : Actor
     {
         private List<Actor> segments = new List<Actor>();
-
+        private Point point = null;
         /// <summary>
         /// Constructs a new instance of a Snake.
         /// </summary>
-        public Snake()
+        public Snake(Point point)
         {
+            this.point =  point;
             PrepareBody();
         }
 
@@ -100,8 +101,8 @@ namespace Unit05.Game.Casting
         /// </summary>
         private void PrepareBody()
         {
-            int x = Constants.MAX_X / 2;
-            int y = Constants.MAX_Y / 2;
+            int x = point.GetX();
+            int y = point.GetY();
 
             for (int i = 0; i < Constants.SNAKE_LENGTH; i++)
             {
