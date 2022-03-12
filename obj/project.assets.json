@@ -116,19 +116,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HPLaptop3\\.nuget\\packages\\": {}
+    "C:\\Users\\visha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CSE-210\\cycle-game\\Unit05.csproj",
+      "projectUniqueName": "C:\\Users\\visha\\Desktop\\CS210 Bro Manley\\Unit 5 Homework\\cycle-game\\Unit05.csproj",
       "projectName": "Unit05",
-      "projectPath": "C:\\CSE-210\\cycle-game\\Unit05.csproj",
-      "packagesPath": "C:\\Users\\HPLaptop3\\.nuget\\packages\\",
-      "outputPath": "C:\\CSE-210\\cycle-game\\obj\\",
+      "projectPath": "C:\\Users\\visha\\Desktop\\CS210 Bro Manley\\Unit 5 Homework\\cycle-game\\Unit05.csproj",
+      "packagesPath": "C:\\Users\\visha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\visha\\Desktop\\CS210 Bro Manley\\Unit 5 Homework\\cycle-game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HPLaptop3\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\visha\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
